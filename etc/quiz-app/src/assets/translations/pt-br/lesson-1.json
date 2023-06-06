@@ -1,0 +1,115 @@
+[
+    {
+      "title": "IA para iniciantes: Quizzes",
+      "complete": "Parabéns, você completou o quiz!",
+      "error": "Perdão, tente novamente.",
+      "quizzes": [
+        {
+          "id": 1,
+          "title": "Introdução à IA - Quiz Pré-Aula",
+          "quiz": [
+            {
+              "questionText": "Um famoso engenheiro de protótipos de computador do século 19 foi:",
+              "answerOptions": [
+                {
+                  "answerText": "Charles Barkley",
+                  "isCorrect": "false"
+                },
+                {
+                  "answerText": "Charles Babbage",
+                  "isCorrect": "true"
+                },
+                {
+                  "answerText": "Charles Darwin",
+                  "isCorrect": "false"
+                }
+              ]
+            },
+            {
+              "questionText": "A Inteligência Artificial Limitada é um sistema projetado para solucionar múltiplas tarefas.",
+              "answerOptions": [
+                {
+                  "answerText": "Verdadeiro",
+                  "isCorrect": "false"
+                },
+                {
+                  "answerText": "Falso",
+                  "isCorrect": "true"
+                }
+              ]
+            },
+            {
+              "questionText": "Chat bots são um exemplo de sistemas verdadeiramente inteligentes.",
+              "answerOptions": [
+                {
+                  "answerText": "Falso, eles operam seguindo uma série de regras.",
+                  "isCorrect": "false"
+                },
+                {
+                  "answerText": "Verdadeiro, geralmente eles são considerados 'inteligentes'.",
+                  "isCorrect": "false"
+                },
+                {
+                  "answerText": "Falso, mas como estão se tornando cada vez mais sofisticados, estão conseguindo passar nos testes de Turing com mais frequência.",
+                  "isCorrect": "true"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Introdução à IA: Quiz Pós-Aula",
+          "quiz": [
+            {
+              "questionText": "A abordagem top-down de IA é um modelo de decisão chamado:",
+              "answerOptions": [
+                {
+                  "answerText": "Decisão estratégica",
+                  "isCorrect": "false"
+                },
+                {
+                  "answerText": "Decisão simbólica",
+                  "isCorrect": "true"
+                },
+                {
+                  "answerText": "Decisão sinérgica",
+                  "isCorrect": "false"
+                }
+              ]
+            },
+            {
+              "questionText": "A abordagem bottom-up de IA é baseada em redes neurais.",
+              "answerOptions": [
+                {
+                  "answerText": "Verdadeiro",
+                  "isCorrect": "true"
+                },
+                {
+                  "answerText": "Falso",
+                  "isCorrect": "false"
+                }
+              ]
+            },
+            {
+              "questionText": "O Inverno da IA ocorreu nos anos de:",
+              "answerOptions": [
+                {
+                  "answerText": "1950",
+                  "isCorrect": "false"
+                },
+                {
+                  "answerText": "1960",
+                  "isCorrect": "false"
+                },
+                {
+                  "answerText": "1970",
+                  "isCorrect": "true"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
